@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Skippit/static/css/main.b089d127.chunk.css",
+    "main.css": "/Skippit/static/css/main.f6faa5b9.chunk.css",
     "main.js": "/Skippit/static/js/main.c5fda9b6.chunk.js",
     "main.js.map": "/Skippit/static/js/main.c5fda9b6.chunk.js.map",
     "runtime~main.js": "/Skippit/static/js/runtime~main.c193fa35.js",
@@ -8,9 +8,9 @@
     "static/js/2.0d384584.chunk.js": "/Skippit/static/js/2.0d384584.chunk.js",
     "static/js/2.0d384584.chunk.js.map": "/Skippit/static/js/2.0d384584.chunk.js.map",
     "index.html": "/Skippit/index.html",
-    "precache-manifest.23075888b87504c16860153c35b957fe.js": "/Skippit/precache-manifest.23075888b87504c16860153c35b957fe.js",
+    "precache-manifest.46107f0548b59282ecab6a026915c82b.js": "/Skippit/precache-manifest.46107f0548b59282ecab6a026915c82b.js",
     "service-worker.js": "/Skippit/service-worker.js",
-    "static/css/main.b089d127.chunk.css.map": "/Skippit/static/css/main.b089d127.chunk.css.map",
+    "static/css/main.f6faa5b9.chunk.css.map": "/Skippit/static/css/main.f6faa5b9.chunk.css.map",
     "static/media/index.css": "/Skippit/static/media/Traditional-Arabic-Bold.dc73276f.woff"
   }
 }
