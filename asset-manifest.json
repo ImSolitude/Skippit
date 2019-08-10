@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Skippit/static/css/main.f6faa5b9.chunk.css",
-    "main.js": "/Skippit/static/js/main.c5fda9b6.chunk.js",
-    "main.js.map": "/Skippit/static/js/main.c5fda9b6.chunk.js.map",
+    "main.js": "/Skippit/static/js/main.76232c3a.chunk.js",
+    "main.js.map": "/Skippit/static/js/main.76232c3a.chunk.js.map",
     "runtime~main.js": "/Skippit/static/js/runtime~main.c193fa35.js",
     "runtime~main.js.map": "/Skippit/static/js/runtime~main.c193fa35.js.map",
     "static/js/2.0d384584.chunk.js": "/Skippit/static/js/2.0d384584.chunk.js",
     "static/js/2.0d384584.chunk.js.map": "/Skippit/static/js/2.0d384584.chunk.js.map",
     "index.html": "/Skippit/index.html",
-    "precache-manifest.46107f0548b59282ecab6a026915c82b.js": "/Skippit/precache-manifest.46107f0548b59282ecab6a026915c82b.js",
+    "precache-manifest.bbd2d7a74a8d640f2a068548ed3ff1ff.js": "/Skippit/precache-manifest.bbd2d7a74a8d640f2a068548ed3ff1ff.js",
     "service-worker.js": "/Skippit/service-worker.js",
     "static/css/main.f6faa5b9.chunk.css.map": "/Skippit/static/css/main.f6faa5b9.chunk.css.map",
     "static/media/index.css": "/Skippit/static/media/Traditional-Arabic-Bold.dc73276f.woff"
