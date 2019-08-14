@@ -11,6 +11,9 @@ const Press = props => {
         <p>
           <span className="bold big">
             Reach out to us for press inquiries!{" "}
+            <span role="img" aria-label="point-right">
+              👉
+            </span>{" "}
             <a href="mailto:marc@skippitapp.com">marc@skippitapp.com</a>
           </span>
         </p>

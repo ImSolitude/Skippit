@@ -36,9 +36,6 @@ const SideMenu = () => {
         <Menu isSided />
         <ul className="sided">
           <li>
-            <a href="#">FAQ</a>
-          </li>
-          <li>
             <a href="#">Contact</a>
           </li>
           <li>
