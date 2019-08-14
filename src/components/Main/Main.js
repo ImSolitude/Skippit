@@ -36,10 +36,10 @@ const Main = props => {
         className="hero-video"
       /> */}
         <video
+          playsInline
+          muted
           autoPlay
           loop
-          muted
-          playsInline
           className="hero-video"
           width="100vw"
           height="56.25vw"
