@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa10f3dde3f031656a00f467215939fa",
+    "revision": "f79fd4a67125a0884dd29b2ea48091fd",
     "url": "/Skippit/index.html"
   },
   {
-    "revision": "4a99f5716b0ffe874fa0",
+    "revision": "65c184f4f69cd5fb6a2f",
     "url": "/Skippit/static/css/main.94df3ed8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Skippit/static/js/2.2d4c8994.chunk.js"
   },
   {
-    "revision": "4a99f5716b0ffe874fa0",
-    "url": "/Skippit/static/js/main.2eb169ce.chunk.js"
+    "revision": "65c184f4f69cd5fb6a2f",
+    "url": "/Skippit/static/js/main.331c1d2c.chunk.js"
   },
   {
     "revision": "b94811a9beaf653e9be0",
