@@ -77,7 +77,7 @@ const Header = props => {
           <img src="images/SkippitLogo.png" width="60px" />
         </a>
         <a href="/" className="in-page-brand">
-          Home
+          <img src="images/whiteinpagebrand.png" width="40px" />
         </a>
         <Menu />
         <div className="hamburger" onClick={handleHamburger}>
