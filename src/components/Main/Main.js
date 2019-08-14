@@ -38,6 +38,7 @@ const Main = props => {
         <video
           playsInline
           muted
+          defaultMuted
           autoPlay
           loop
           className="hero-video"
