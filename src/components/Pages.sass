@@ -28,11 +28,11 @@ p.underline
   display: flex
   flex-direction: column
   height: 100%
-  background-image: linear-gradient(to right bottom, #f7b4c3, #f6c3d7, #f4d2e7, #f3e0f3, #f5eefa, #f2edfc, #ededfe, #e8edff, #cfe1ff, #aed7ff, #82cfff, #3bc7fd)
+  // background-image: linear-gradient(to right bottom, #f7b4c3, #f6c3d7, #f4d2e7, #f3e0f3, #f5eefa, #f2edfc, #ededfe, #e8edff, #cfe1ff, #aed7ff, #82cfff, #3bc7fd)
 .content-wrapper.press
   text-align: center
   padding-top: 0
-  height: calc(100% - 64px)
+  height: calc(100% - 85.95px)
   display: flex
   align-items: center
   justify-content: center
@@ -44,3 +44,34 @@ p.underline
   width: 70%
   margin-left: auto
   margin-right: auto
+
+.mission
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    z-index: -1
+    background: url('/images/mission.png') no-repeat
+    background-size: 50%
+    background-position: -20% bottom
+    @media (max-width: 700px)
+      background-size: 100%
+      background-position: -150px bottom
+.press-page
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    z-index: -1
+    background: url('/images/press.png') no-repeat
+    background-size: 50%
+    background-position: 120% bottom
+    @media (max-width: 700px)
+      background-size: 100%
+      background-position: -150px bottom

@@ -12,9 +12,6 @@ const Under = props => {
       <div className="under-info">
         <ul className="footer-sided hover">
           <li>
-            <a href="#">FAQ</a>
-          </li>
-          <li>
             <a href="#">Contact</a>
           </li>
           <li>

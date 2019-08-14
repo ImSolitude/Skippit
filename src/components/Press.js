@@ -5,9 +5,9 @@ import "./Pages.sass";
 
 const Press = props => {
   return (
-    <div className="page-wrapper">
+    <>
       <Header inPage />
-      <div className="content-wrapper press">
+      <div className="content-wrapper press press-page">
         <p>
           <span className="bold big">
             Reach out to us for press inquiries!{" "}
@@ -16,7 +16,7 @@ const Press = props => {
         </p>
       </div>
       {/* <Under inPage />   */}
-    </div>
+    </>
   );
 };
 
