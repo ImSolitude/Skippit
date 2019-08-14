@@ -1,0 +1,46 @@
+.content-wrapper
+  
+  padding-top: 3rem
+  max-width: 960px
+  margin-left: auto
+  margin-right: auto
+  @media (max-width: 1000px)
+    padding-left: 1rem
+    padding-right: 1rem
+  @media (max-width: 700px)
+    padding-top: 5rem
+  & > *:not(.not)
+    font-size: 18px
+  p
+    margin-top: 1rem
+  a 
+   color: #3BC7FD
+  ul
+    padding-left: 40px!important
+    li
+      list-style: circle
+
+span.bold
+  font-weight: bold
+p.underline
+  text-decoration: underline
+.page-wrapper
+  display: flex
+  flex-direction: column
+  height: 100%
+  background-image: linear-gradient(to right bottom, #f7b4c3, #f6c3d7, #f4d2e7, #f3e0f3, #f5eefa, #f2edfc, #ededfe, #e8edff, #cfe1ff, #aed7ff, #82cfff, #3bc7fd)
+.content-wrapper.press
+  text-align: center
+  padding-top: 0
+  height: calc(100% - 64px)
+  display: flex
+  align-items: center
+  justify-content: center
+.big
+  font-size: 2.5rem
+  @media (max-width: 700px)
+    font-size: 5vw
+  font-weight: bold
+  width: 70%
+  margin-left: auto
+  margin-right: auto
