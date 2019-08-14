@@ -37,6 +37,7 @@ const Main = props => {
       /> */}
         <video
           playsInline
+          webkit-playsinline
           muted
           defaultMuted
           autoPlay
