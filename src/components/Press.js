@@ -10,7 +10,8 @@ const Press = props => {
       <div className="content-wrapper press press-page">
         <p>
           <span className="bold big">
-            Reach out to us for press inquiries!{" "}
+            Reach out to us for press inquiries!
+            <br />
             <span role="img" aria-label="point-right">
               👉
             </span>{" "}
