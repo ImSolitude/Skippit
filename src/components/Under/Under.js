@@ -51,7 +51,7 @@ const Under = props => {
           </li>
 
           <li>
-            <a href="#">
+            <a href="https://www.instagram.com/skippitapp/">
               <FontAwesomeIcon icon={faInstagram} size="2x" />
             </a>
           </li>
