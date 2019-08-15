@@ -40,13 +40,15 @@ const Main = props => {
         className="hero-video"
       /> */}
         <video
-          muted="muted"
+          muted
           playsInline
           webkit-playsinline="inline"
           // onCanPlay="this.muted=true"
           autoPlay
           loop
+          preload="metadata"
           className="hero-video"
+          id="hero"
           width="100vw"
           height="56.25vw"
         >
