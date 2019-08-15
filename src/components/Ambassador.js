@@ -94,7 +94,7 @@ const Ambassador = props => {
           </Form.Item>
 
           <Checkbox onChange={handleTos}>
-            You must agree to our <a href="/terms">Terms of Service</a>
+            You must agree to our <a href="/terms">Super User Contract</a>
           </Checkbox>
 
           <Button

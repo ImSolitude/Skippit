@@ -10,18 +10,13 @@ const Mission = props => {
       <Header inPage />
       <div className="content-wrapper press mission">
         <p className="bold big not">
-          Texting sucks. Waiting three weeks to go on a date sucks. Spending
-          money on{" "}
-          <span role="img" aria-label="taxi">
-            🚕
-          </span>{" "}
-          to get trashy drinks only to be disappointed. Our competitors were
-          built to get to the first date. We are the first date using video and
-          voice to skip the{" "}
-          <span role="img" aria-label="hankey">
-            💩
-          </span>
-          .
+          Texting sucks. Waiting three weeks to go on a date sucks.
+          <br />
+          Spending money on Uber to get trashy drinks only to be disappointed.
+          <br />
+          <span>Our competitors were built to get to the first date.</span>
+          <br />
+          We, by using video and voice, are the first date.
         </p>
       </div>
       {/* <Under inPage />   */}

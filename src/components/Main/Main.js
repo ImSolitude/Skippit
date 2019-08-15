@@ -1,10 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Header from "../Header/Header";
 import Under from "../Under/Under";
 import Fade from "react-reveal/Fade";
 import styled from "styled-components";
 import "./Main.sass";
 const Main = props => {
+  useEffect(() => {
+    const video = document.querySelector("video.hero-video");
+    video.muted = "muted";
+  });
   return (
     <>
       <Header />
@@ -36,17 +40,17 @@ const Main = props => {
         className="hero-video"
       /> */}
         <video
+          muted="muted"
           playsInline
-          webkit-playsinline
-          muted
-          defaultMuted
+          webkit-playsinline="inline"
+          // onCanPlay="this.muted=true"
           autoPlay
           loop
           className="hero-video"
           width="100vw"
           height="56.25vw"
         >
-          <source src="videos/hero-skippit.mp4" type="video/mp4" />
+          <source src="videos/skippit-muted.mp4" type="video/mp4" />
         </video>
       </section>
       <Under />

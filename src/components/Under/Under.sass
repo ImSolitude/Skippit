@@ -1,8 +1,9 @@
 section.under
-
-  // background: #F6B8C6
   background-image: linear-gradient(to right bottom, #f7b4c3, #f6c3d7, #f4d2e7, #f3e0f3, #f5eefa, #f2edfc, #ededfe, #e8edff, #cfe1ff, #aed7ff, #82cfff, #3bc7fd)
   position: sticky
+  position: -webkit-sticky
+  -webkit-position: sticky
+  top: 0
   bottom: 0
   left: 0
   right: 0
@@ -17,6 +18,9 @@ section.under
     position: relative
     margin-top: 4rem
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.55), 0 10px 10px rgba(0, 0, 0, 0.22)
+
+#root
+  overflow: auto
 
 .under-info
     display: flex
