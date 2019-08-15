@@ -3,7 +3,7 @@ import { Form, DatePicker, Input, Checkbox, Button } from "antd";
 import Header from "./Header/Header";
 import Under from "./Under/Under";
 import "./Pages.sass";
-import "antd/dist/antd.css";
+import "./antd.css";
 
 const Ambassador = props => {
   const [name, setName] = useState("");
