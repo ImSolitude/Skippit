@@ -22,9 +22,6 @@ const Menu = props => {
       <li>
         <a href="/brandambassador">Brand Ambassadors</a>
       </li>
-      <li>
-        <a href="#">Careers</a>
-      </li>
     </ul>
   );
 };
@@ -36,10 +33,7 @@ const SideMenu = () => {
         <Menu isSided />
         <ul className="sided">
           <li>
-            <a href="#">Contact</a>
-          </li>
-          <li>
-            <a href="/press">Press</a>
+            <a href="/press">Contact</a>
           </li>
           <li className="lastSocial">
             <a href="#">
