@@ -4,7 +4,7 @@ import styled from "styled-components";
 import Main from "./Main/Main";
 import Terms from "./Terms";
 import Privacy from "./Privacy";
-import Ambassador from "./Ambassador";
+import Ambassador from "./Ambassador"; 
 import Press from "./Press";
 import Mission from "./Mission";
 // Material
